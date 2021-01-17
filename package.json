@@ -1,0 +1,14 @@
+{
+  "name": "Hydrococcus",
+  "version": "1.0.0",
+  "description": "Tutorial cordova Plugin Development with swift - https://medium.com/@JordanBenge/how-to-write-an-ionic-cordova-plugin-in-swift-8d443430b27d",
+  "cordova": {
+    "id": "cordova-plugin-hydrococcus",
+    "platforms": ["ios"]
+  },
+  "keywords": ["cordova","cordova-ios"],
+  "author": "s.birke",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
